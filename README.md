@@ -31,7 +31,7 @@ Keep track of your tasks, deadlines, and manage them easily with fun interactive
 
 ## 📸 Demo Screenshot
 
-![Screenshot](screenshot.png)
+ https://zamaprimrose.github.io/to-do-list/
 
 *(Optional: Replace with your own screenshot of the app.)*
 
