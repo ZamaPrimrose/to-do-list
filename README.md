@@ -29,16 +29,14 @@ Keep track of your tasks, deadlines, and manage them easily with fun interactive
 
 ---
 
-## 📸 Demo Screenshot
+## 📸 Demo 
 
  https://zamaprimrose.github.io/to-do-list/
 
-*(Optional: Replace with your own screenshot of the app.)*
+
 
 ---
 
-## 🛠️ How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ZamaPrimrose/to-do-list.git
+
+
